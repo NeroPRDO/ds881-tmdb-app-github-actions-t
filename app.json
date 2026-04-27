@@ -13,6 +13,7 @@
     },
     "android": {
       "adaptiveIcon": {
+        "package": "com.pedro.tmdbapp",
         "backgroundColor": "#E6F4FE",
         "foregroundImage": "./assets/images/android-icon-foreground.png",
         "backgroundImage": "./assets/images/android-icon-background.png",
@@ -43,7 +44,7 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true,
-      "baseUrl": "/ds151-code-06-navigation"
+      "baseUrl": "/ds881-tmdb-app-github-actions-t"
     }
   }
 }
