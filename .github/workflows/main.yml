@@ -65,7 +65,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: dist
-          include-hidden-files: true
+          #          include-hidden-files: true
 
   deploy-web:
     name: Deploy GitHub Pages
